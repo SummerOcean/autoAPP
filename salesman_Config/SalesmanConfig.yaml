@@ -1,0 +1,74 @@
+username_test:
+  company_salesman: 'yewuyuan'
+  delivery_postman: 'PSYzhiyuan'
+
+username_pro:
+  company_salesman: 'TestcoSFzhiyuan'
+  delivery_postman: 'TestcoTRzhiyuan'
+
+user_password: "sczyts999"
+
+devices_caps:
+  deviceName: "127.0.0.1:62001"
+  port: "5037"
+  platformName: "android"
+  appPackage: "com.hjkj.hjmall"
+  appActivity: ".welcome.SplashActivity"
+  noReset: "True"
+  automationName: "UiAutomator2"
+  unicodeKeyboard: "True"
+  printPageSourceOnFindFailure: "True"
+
+log:
+  name: "ZhiYuan"
+  file_path: 'D:\ProjectsWorkspace\HJKJ_salesman\salesman_Logs\'
+  file_level: 'INFO'
+  get_logger_level: "DEBUG"
+  handler_level: "DEBUG"
+  Logname: "salesman-Auto-"
+
+report:
+  search_path: 'D:\ProjectsWorkspace\HJKJ_salesman\salesman_TestCases\'
+  match_name: 'Test_*.py'
+  html_path: 'D:\ProjectsWorkspace\HJKJ_salesman\salesman_Reports\'
+  html_name: 'salesmanAuto-'
+  report_title: 'Automation Test Report'
+  report_description: 'TestCases Execution Situation:'
+  tester: '致远'
+
+TestCases_path: 'D:\ProjectsWorkspace\HJKJ_salesman\salesman_TestCases\'
+
+sendemail:
+  from_address: '1094074691@qq.com'
+    # 'xueqinyaogood@163.com'
+    # '1094074691@qq.com'
+  to_address:
+    - 1094074691@qq.com
+    - xueqinyaogood@163.com
+    - xueqinyao@dingtalk.com
+  from_header: 薛钦耀
+  to_header: 我
+  mail_subject: 自动化测试报告_致远
+  email_from_server: 'smtp.qq.com'
+    # 'smtp.163.com'
+    # 'smtp.qq.com'
+  email_from_username: '1094074691@qq.com'
+    # 'xueqinyaogood@163.com'
+    # '1094074691@qq.com'
+  email_from_password: 'oyznelllkcpvijee'
+  # qq邮箱授权码：oyznelllkcpvijee
+  # 163邮箱授权码：CULXTHBHSENNMPWG
+
+shop_boss_name:
+  - 灵隐
+  - 双枪
+  - 泽洋
+  - 青一
+  - 四雨
+  - 柠檬
+  - 致远
+  - 文蔚
+  - 亦初
+
+shop_address: "四川省成都市天府新区天府三街福年广场T2"
+

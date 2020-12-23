@@ -1,0 +1,27 @@
+D:\ProjectsWorkspace\HJKJ_salesman\salesman_PageObject\login_page.py--2020-11-27 11:36:09,436--INFO--20: ---登录方法已连接---
+D:\ProjectsWorkspace\HJKJ_salesman\salesman_PageObject\login_page.py--2020-11-27 11:36:09,436--INFO--32: 输入用户名
+D:\ProjectsWorkspace\HJKJ_salesman\salesman_PageObject\login_page.py--2020-11-27 11:36:11,605--INFO--38: 输入用户密码
+D:\ProjectsWorkspace\HJKJ_salesman\salesman_PageObject\login_page.py--2020-11-27 11:36:12,626--INFO--44: 点击登录按钮
+D:\ProjectsWorkspace\HJKJ_salesman\salesman_PageObject\login_page.py--2020-11-27 11:36:13,130--INFO--50: 判断是否登录成功...
+D:\ProjectsWorkspace\HJKJ_salesman\salesman_PageObject\login_page.py--2020-11-27 11:36:14,118--INFO--28: --登录成功--
+D:\ProjectsWorkspace\HJKJ_salesman\salesman_PageObject\create_order_page.py--2020-11-27 11:36:14,118--INFO--24: 正在初始化页面:店铺下单...
+D:\ProjectsWorkspace\HJKJ_salesman\salesman_PageObject\create_order_page.py--2020-11-27 11:36:14,894--INFO--30: 在主页点击‘店铺’按钮,以切换至店铺列表
+D:\ProjectsWorkspace\HJKJ_salesman\salesman_PageObject\create_order_page.py--2020-11-27 11:36:16,478--INFO--37: 选择一个下单的店铺
+D:\ProjectsWorkspace\HJKJ_salesman\salesman_PageObject\create_order_page.py--2020-11-27 11:36:17,722--INFO--43: 点击下单按钮
+D:\ProjectsWorkspace\HJKJ_salesman\salesman_PageObject\create_order_page.py--2020-11-27 11:36:18,968--INFO--49: 选择商品：旺仔牛奶 原味 300ml 1x1
+D:\ProjectsWorkspace\HJKJ_salesman\salesman_PageObject\create_order_page.py--2020-11-27 11:36:22,939--INFO--61: 选择仓库(指定)：SFBP致远3号仓库
+D:\ProjectsWorkspace\HJKJ_salesman\salesman_PageObject\create_order_page.py--2020-11-27 11:36:22,958--INFO--75: 商品库存：1256
+D:\ProjectsWorkspace\HJKJ_salesman\salesman_PageObject\create_order_page.py--2020-11-27 11:36:23,867--INFO--83: 加入购物车
+D:\ProjectsWorkspace\HJKJ_salesman\salesman_PageObject\create_order_page.py--2020-11-27 11:36:25,042--INFO--90: 点击购物车按钮，进入购物车页面
+D:\ProjectsWorkspace\HJKJ_salesman\salesman_PageObject\create_order_page.py--2020-11-27 11:36:27,950--INFO--98: 添加商品数量:4
+D:\ProjectsWorkspace\HJKJ_salesman\salesman_PageObject\create_order_page.py--2020-11-27 11:36:29,244--INFO--104: 勾选全部商品
+D:\ProjectsWorkspace\HJKJ_salesman\salesman_PageObject\create_order_page.py--2020-11-27 11:36:29,269--INFO--110: 点击结算按钮
+D:\ProjectsWorkspace\HJKJ_salesman\salesman_PageObject\create_order_page.py--2020-11-27 11:36:30,146--INFO--116: 点击查看明细并支付按钮
+D:\ProjectsWorkspace\HJKJ_salesman\salesman_PageObject\create_order_page.py--2020-11-27 11:36:31,581--INFO--122: 输入订单备注
+D:\ProjectsWorkspace\HJKJ_salesman\salesman_PageObject\create_order_page.py--2020-11-27 11:36:32,120--INFO--129: 订单商品总数：共5件货，
+D:\ProjectsWorkspace\HJKJ_salesman\salesman_PageObject\create_order_page.py--2020-11-27 11:36:32,144--INFO--132: 订单商品总金额：83.45
+D:\ProjectsWorkspace\HJKJ_salesman\salesman_PageObject\create_order_page.py--2020-11-27 11:36:32,165--INFO--139: 支付方式为：货到付款
+D:\ProjectsWorkspace\HJKJ_salesman\salesman_PageObject\create_order_page.py--2020-11-27 11:36:32,195--INFO--142: 配送方式为：物流商配送
+D:\ProjectsWorkspace\HJKJ_salesman\salesman_PageObject\create_order_page.py--2020-11-27 11:36:33,524--INFO--148: 点击提交订单按钮
+D:\ProjectsWorkspace\HJKJ_salesman\salesman_PageObject\create_order_page.py--2020-11-27 11:36:33,558--INFO--154: 下单成功！
+D:\ProjectsWorkspace\HJKJ_salesman\salesman_PageObject\create_order_page.py--2020-11-27 11:36:33,577--INFO--160: 点击返回工作台按钮
